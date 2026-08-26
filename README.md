@@ -1,35 +1,50 @@
 # Isabella Salcedo Tuiran
 
-**Medical researcher · Scientific founder · Founder & Research Lead at Aukemir**
+**Medical researcher · Scientific founder · Founder & Research Lead at [Aukemir](https://github.com/aukemir)**
 
-I work at the intersection of biology, complex systems, and experimental deep-tech research.
+I am building **Aukemir**, a frontier scientific company developing the foundations for **Human De Novo Capability**: the rigorous engineering of functional capabilities beyond the typical native human repertoire.
 
-I am building **Aukemir**, an independent experimental research project investigating whether deliberately designed representations can support transferable human reasoning in unfamiliar dynamic systems.
+The long-range question is whether human capability itself can become an engineering object — from non-native perception and additional degrees of action to, where mechanism and evidence justify it, functions supported by neural or biological substrate itself.
 
 ## Current work
 
-My current work spans:
+Aukemir's current execution remains at **H1 / CP-01: Formal Capability Encoding**.
 
-- scientific hypothesis design and falsification
-- dynamic-system intervention reasoning
-- simulation and benchmark architecture
-- representation and experimental design
-- evidence governance and reproducible research
+The first controlled substrate is **Finite-Horizon Local Intervention Geometry (LIG)**. It is being used to make capability specification, independent ground truth, leakage control, strong alternatives, transfer/integration metrology, reproducibility and falsification concrete enough to test.
 
-**Current evidence state:** technical and synthetic. Human validation has not yet begun.
+**LIG is not the company endpoint, a future sensory signal, a neural code or a biological mechanism.**
+
+Current cross-substrate method status: **CEM-E0 — architecture only**.
+
+## Evidence boundary
+
+- Internal technical / synthetic evidence: exists
+- Prior negative scientific attempts: 2 preserved
+- External computational executions returned: 0
+- Human participants / human data: 0 / 0
+- De novo human capability demonstrated: 0
+- Aukemir H3 / H4 / H5 evidence: 0 / 0 / 0
+
+**Internal technical success is not human evidence.**
 
 ## Scientific background
 
-My broader research experience includes molecular cancer biology, epigenetics, transcriptomic interpretation, regulatory-network analysis, biochemistry, clinical research, and scientific writing.
+My broader research work spans biomedical science and cancer research, including molecular biology, epigenetics, transcriptomic interpretation, computational analysis and experimental research.
 
 ## Research philosophy
+
+> Treat human limits as hypotheses.
 
 > Ambitious questions. Explicit falsification. Evidence before claims.
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/isabella-salcedo-tuiran-160247370)
+- [Aukemir](https://aukemir.com)
+- [Aukemir Evidence Registry](https://github.com/aukemir/evidence-registry)
+- [LinkedIn](https://www.linkedin.com/in/isabella-salcedo-tuiran-160247370)
+- [ORCID](https://orcid.org/0009-0004-1968-9650)
+- [X](https://x.com/IsaSalcedoT)
 
 ---
 
-*Selected technical artifacts from Aukemir will be published progressively as they clear scientific, disclosure, and reproducibility review.*
+*Public materials communicate ambition while preserving the evidence ceiling. They do not imply external validation, human efficacy, neural or biological capability, product validation or commercial validation.*
